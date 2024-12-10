@@ -1,0 +1,6 @@
+[package]
+name = "Day-2-Red-Nosed-Reports-part-01"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
